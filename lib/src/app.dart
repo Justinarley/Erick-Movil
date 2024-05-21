@@ -26,7 +26,7 @@ class _MyAppFrontState extends State<MyAppFront> {
                 const CircleAvatar(
                   radius: 60.0,
                   backgroundColor: Colors.transparent,
-                  backgroundImage: AssetImage("Img/perfil.jpeg"),
+                  backgroundImage: AssetImage("Img/perfil1.jpeg"),
                 ),
                 const SizedBox(height: 20.0),
                 const Text(
